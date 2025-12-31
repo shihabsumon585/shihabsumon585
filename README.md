@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Md Shihab Sumon!
-<a href='https://www.linkedin.com/in/md-shihab-sumon-023b2834b/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://x.com/shihabsumon585'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/md-shihab-sumon-023b2834b/'><img align='left' alt="linkedin" src="https://img.freepik.com/premium-vector/square-linkedin-logo-isolated-white-background_469489-892.jpg?semt=ais_hybrid&w=740&q=80" height='28px'/></a>
+<a href='https://x.com/shihabsumon585'><img align='left' alt="twitter" src="https://www.omnicoreagency.com/wp-content/uploads/2015/10/Twitter-Logo.png.webp" height='28px'/></a>
 <a href='https://www.facebook.com/mdshihab.sumon.5076'><img alt="facebook" src="https://www.logo.wine/a/logo/Facebook/Facebook-f_Logo-Black-Logo.wine.svg" height='28px'/></a>
 
 
