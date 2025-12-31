@@ -57,6 +57,12 @@ Currently, I’m focused on improving performance, scalability, and modern UI/UX
   <a href="https://twitter.com/shihabsumon585">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
+  
+  <a href="https://twitter.com/shihabsumon585">
+    Email: shihabsumon585@gmail.com
+    Phone: +8801751782602 (whatsapp)
+    Address: A/4, Mirpur-14, Dhaka-1207
+  </a>
 </p>
 
 ---
