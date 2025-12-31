@@ -51,18 +51,22 @@ Currently, I’m focused on improving performance, scalability, and modern UI/UX
   <a href="https://github.com/shihabsumon585">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <br> 
   <a href="https://www.linkedin.com/in/shihabsumon585">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <br> 
   <a href="https://twitter.com/shihabsumon585">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  
-  <a href="https://twitter.com/shihabsumon585">
+  <br> 
+  <p>
     Email: shihabsumon585@gmail.com
-    Phone: +8801751782602 (whatsapp)
+    <br> 
+    Phone: +8801751782602 (whatsapp) 
+    <br> 
     Address: A/4, Mirpur-14, Dhaka-1207
-  </a>
+  </p>
 </p>
 
 ---
