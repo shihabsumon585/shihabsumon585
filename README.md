@@ -4,7 +4,7 @@
 </p>
 
 <!-- ===================== NAME & DESIGNATION ===================== -->
-<h2 align="center">Md Shihab Sumon</h2>
+<!-- <h2 align="center">Md Shihab Sumon</h2> -->
 <h4 align="center">Frontend Developer | MERN Stack Developer</h4>
 
 ---
@@ -20,7 +20,7 @@ Currently, I’m focused on improving performance, scalability, and modern UI/UX
 ## 🚀 Current Activities
 
 - 🔍 Exploring **Next.js** and modern React patterns  
-- 🌍 Working on a **Tourism Website** project  
+- 🌍 Working on a **Industry Level Website** project  
 - 🧠 Improving **debugging & problem-solving skills**  
 - ⚡ Learning best practices for **scalable frontend architecture**
 
@@ -48,13 +48,13 @@ Currently, I’m focused on improving performance, scalability, and modern UI/UX
 ## 🔗 Connect With Me
 
 <p>
-  <a href="https://github.com/your-github-username">
+  <a href="https://github.com/shihabsumon585">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username">
+  <a href="https://www.linkedin.com/in/shihabsumon585">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-twitter-username">
+  <a href="https://twitter.com/shihabsumon585">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
@@ -64,15 +64,15 @@ Currently, I’m focused on improving performance, scalability, and modern UI/UX
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?shihabsumon585=your-github-username&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shihabsumon585&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?shihabsumon585&layout=compact&theme=tokyonight" />
 </p>
 
 ---
